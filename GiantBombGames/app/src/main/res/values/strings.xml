@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Giant Bomb Games</string>
+    <string name="title_about">About</string>
+    <string name="name_about">By Matthew Hoover</string>
+    <string name="title_games">Games</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="add_favorites">Add to Favorites</string>
+    <string name="no_favorites">No games added to favorites</string>
+    <string name="medium_url">Medium game image</string>
+    <string name="app_logo">App logo</string>
+</resources>
